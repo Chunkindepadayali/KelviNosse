@@ -57,3 +57,8 @@
 ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=kelvinosse)
 
 </div>
+<h1 align="center">
+
+  <img src="https://raw.githubusercontent.com/Chunkindepadayali/KelviNosse/master/name.svg.gif" alt="LIZA MWOL" />
+
+</h1>
